@@ -7,4 +7,5 @@ public class Util2 {
     private String name;
 
     private String id;
+    private String id2;
 }
