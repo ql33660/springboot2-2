@@ -7,4 +7,5 @@ package com.baizhi.util;
 public class Util {
     private String util;
     private Integer id;
+    private String nnn;
 }
