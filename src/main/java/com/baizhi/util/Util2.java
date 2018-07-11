@@ -5,4 +5,6 @@ package com.baizhi.util;
  */
 public class Util2 {
     private String name;
+
+    private String id;
 }
